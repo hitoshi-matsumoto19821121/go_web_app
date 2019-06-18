@@ -5,5 +5,6 @@ webフレームワークは早くて簡単と噂のginを利用
 
 次は認証を作成して、DB接続してTODOリストを出すところとかやってみたいがまずはここまで
 
-## Appendix
-メモ
+## Environment
+goがインストールされていること
+ginがインストールされていること(go get github.com/gin-gonic/gin)
